@@ -1,0 +1,35 @@
+﻿<Window x:Class="ПРАКТИКА__АПТЕКА_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Аптека А" Height="365.6" Width="1017.8">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="91*"/>
+            <RowDefinition Height="63*"/>
+            <RowDefinition Height="52*"/>
+            <RowDefinition Height="42*"/>
+            <RowDefinition Height="32*"/>
+            <RowDefinition Height="55*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="93*"/>
+            <ColumnDefinition Width="100*"/>
+            <ColumnDefinition Width="22*"/>
+            <ColumnDefinition Width="101*"/>
+            <ColumnDefinition Width="63*"/>
+            <ColumnDefinition Width="126*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Регистрация" Margin="138,0,10,6" Click="Button_Click" Grid.Column="1" Grid.Row="5" Grid.ColumnSpan="2"/>
+        <Button Content="Вход" Margin="100,0,6,6" Click="Button_Click_2" Grid.Column="3" Grid.Row="5"/>
+        <TextBox x:Name="logintext" Margin="155,4,8,9" TextWrapping="Wrap" Text="" Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="3"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="177,9,0,0" VerticalAlignment="Top" Width="100" Grid.Column="1" Grid.RowSpan="3" Grid.Row="2" Grid.ColumnSpan="3"/>
+        <Image Margin="13,0,36,7" Source="Image1.png" Stretch="Fill" Grid.Column="2" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+        <Label Content="ЛОГИН" Margin="59,4,33,12" FontWeight="Bold" FontSize="20" Grid.Column="1" Grid.Row="2"/>
+        <Label Content="ПАРОЛЬ" Margin="55,1,37,2" FontWeight="Bold" FontSize="20" Grid.Column="1" Grid.Row="3"/>
+        <Button Content="Выйти" Margin="67,19,85,23" Click="Button_Click_1" Grid.Column="5"/>
+        <PasswordBox HorizontalAlignment="Left" Margin="191,32,0,0" VerticalAlignment="Top" Height="10" Width="6" Grid.Column="1" Grid.Row="5"/>
+        <PasswordBox x:Name="PasswordBoxLog" Margin="155,0,6,2" Grid.Column="1" Grid.Row="3" Grid.ColumnSpan="3"/>
+        <Button x:Name="Buttonpodkl" Content="Настройка подключения" Margin="24,48,0,17" Click="Buttonpodkl_Click" Grid.Column="1" HorizontalAlignment="Left" Width="173"/>
+
+    </Grid>
+</Window>

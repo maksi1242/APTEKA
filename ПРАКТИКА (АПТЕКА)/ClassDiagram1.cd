@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ПРАКТИКА__АПТЕКА_.App" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ПРАКТИКА__АПТЕКА_.ConnectionClass" Collapsed="true">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBAAAA=</HashCode>
+      <FileName>ConnectionClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ПРАКТИКА__АПТЕКА_.Encrypt" Collapsed="true">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Encrypt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ПРАКТИКА__АПТЕКА_.Klient" Collapsed="true">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Klient.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ПРАКТИКА__АПТЕКА_.MainWindow" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgABAAAAAAAAAAEEAAAAAAAABAAACAAAAAQ=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ПРАКТИКА__АПТЕКА_.Postavshik" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Postavshik.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ПРАКТИКА__АПТЕКА_.REGISTRACIYA_APTEKA_" Collapsed="true">
+    <Position X="2.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAACBACAAAAAAAAEAAAAAAAAAAACACAAAAAA=</HashCode>
+      <FileName>REGISTRACIYA(APTEKA).xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ПРАКТИКА__АПТЕКА_.Sotrudnik" Collapsed="true">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAABAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sotrudnik.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ПРАКТИКА__АПТЕКА_.Tovar" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tovar.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ПРАКТИКА__АПТЕКА_.Window1" Collapsed="true">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgBAAAAiAAAABAAAAABAAACAAAAAAAAAAEAEAAAAAAA=</HashCode>
+      <FileName>Window1.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ПРАКТИКА__АПТЕКА_.Window2" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAABABAAAAAAAAEEAAAAAAACAAAACAAAAAA=</HashCode>
+      <FileName>Window2.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ПРАКТИКА__АПТЕКА_.Доставка" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Доставка.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ПРАКТИКА__АПТЕКА_.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ПРАКТИКА__АПТЕКА_.Properties.Settings" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,25 @@
+﻿<Window x:Class="ПРАКТИКА__АПТЕКА_.REGISTRACIYA_APTEKA_"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Регистрация нового пользователя" Height="558" Width="501">
+    <Grid Margin="-114,0,-151,-49">
+        <TextBox x:Name="FamKlient_textbox" HorizontalAlignment="Left" Height="35" Margin="292,39,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="272"/>
+        <TextBox x:Name="NameClient_textbox" HorizontalAlignment="Left" Height="35" Margin="292,90,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="272"/>
+        <TextBox x:Name="Otch_klient_Textbox" HorizontalAlignment="Left" Height="35" Margin="292,148,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="272"/>
+        <TextBox x:Name="Telefon_Textbox" HorizontalAlignment="Left" Height="35" Margin="292,210,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="272" TextChanged="Telefon_Textbox_TextChanged" KeyDown="Telefon_Textbox_KeyDown"/>
+        <TextBox x:Name="Nomer_pass_Textbox" HorizontalAlignment="Left" Height="35" Margin="292,271,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="272" KeyDown="Nomer_pass_Textbox_KeyDown"/>
+        <TextBox x:Name="Login_text" HorizontalAlignment="Left" Height="35" Margin="292,390,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="272"/>
+        <Label Content="Пожалуйста, зарегистрируйтесь" HorizontalAlignment="Left" Margin="206,0,0,0" VerticalAlignment="Top" Height="34" Width="358" FontSize="20"/>
+        <Label Content="Фамилия" HorizontalAlignment="Left" Margin="182,34,0,0" VerticalAlignment="Top" Height="44" Width="105" FontWeight="Bold" FontSize="20"/>
+        <Label Content="Имя" HorizontalAlignment="Left" Margin="225,90,0,0" VerticalAlignment="Top" Height="44" Width="62" FontWeight="Bold" FontSize="20"/>
+        <Label Content="Отчество" HorizontalAlignment="Left" Margin="182,148,0,0" VerticalAlignment="Top" Height="44" Width="105" FontWeight="Bold" FontSize="20"/>
+        <Label Content="Телефон" HorizontalAlignment="Left" Margin="182,210,0,0" VerticalAlignment="Top" Height="44" Width="105" FontWeight="Bold" FontSize="20"/>
+        <Label Content="Номер паспорта" HorizontalAlignment="Left" Margin="114,271,0,0" VerticalAlignment="Top" Height="44" Width="173" FontWeight="Bold" FontSize="20"/>
+        <Label Content="Пароль" HorizontalAlignment="Left" Margin="196,331,0,0" VerticalAlignment="Top" Height="44" Width="91" FontWeight="Bold" FontSize="20"/>
+        <Label Content="Логин" HorizontalAlignment="Left" Margin="196,390,0,0" VerticalAlignment="Top" Height="44" Width="91" FontWeight="Bold" FontSize="20"/>
+        <Button Content="Зарегистрироваться" HorizontalAlignment="Left" Margin="244,473,0,0" VerticalAlignment="Top" Width="244" Height="44" Click="Button_Click_4"/>
+        <PasswordBox x:Name="PasswordBox1" HorizontalAlignment="Left" Margin="292,331,0,0" VerticalAlignment="Top" Width="272" Height="33"/>
+        <PasswordBox x:Name="PasswordBox2" HorizontalAlignment="Left" Margin="292,430,0,0" VerticalAlignment="Top" Height="37" Width="272"/>
+        <Label Content="Повторить&#xD;&#xA; пароль" HorizontalAlignment="Left" Margin="145,425,0,0" VerticalAlignment="Top" Height="77" Width="173" FontWeight="Bold" FontSize="20"/>
+    </Grid>
+</Window>

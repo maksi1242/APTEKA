@@ -1,0 +1,45 @@
+c:\users\никита\documents\visual studio 2013\Projects\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\bin\Debug\ПРАКТИКА (АПТЕКА).exe.config
+c:\users\никита\documents\visual studio 2013\Projects\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\bin\Debug\ПРАКТИКА (АПТЕКА).exe
+c:\users\никита\documents\visual studio 2013\Projects\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\bin\Debug\ПРАКТИКА (АПТЕКА).pdb
+c:\users\никита\documents\visual studio 2013\Projects\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\ПРАКТИКА (АПТЕКА).csprojResolveAssemblyReference.cache
+c:\users\никита\documents\visual studio 2013\Projects\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\MainWindow.baml
+c:\users\никита\documents\visual studio 2013\Projects\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\MainWindow.g.cs
+c:\users\никита\documents\visual studio 2013\Projects\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\App.g.cs
+c:\users\никита\documents\visual studio 2013\Projects\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\ПРАКТИКА (АПТЕКА)_MarkupCompile.cache
+c:\users\никита\documents\visual studio 2013\Projects\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\ПРАКТИКА (АПТЕКА).g.resources
+c:\users\никита\documents\visual studio 2013\Projects\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\ПРАКТИКА__АПТЕКА_.Properties.Resources.resources
+c:\users\никита\documents\visual studio 2013\Projects\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\ПРАКТИКА (АПТЕКА).csproj.GenerateResource.Cache
+c:\users\никита\documents\visual studio 2013\Projects\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\ПРАКТИКА (АПТЕКА).exe
+c:\users\никита\documents\visual studio 2013\Projects\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\ПРАКТИКА (АПТЕКА).pdb
+c:\users\никита\documents\visual studio 2013\Projects\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\REGISTRACIYA(APTEKA).baml
+c:\users\никита\documents\visual studio 2013\Projects\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\REGISTRACIYA(APTEKA).g.cs
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\bin\Debug\ПРАКТИКА (АПТЕКА).exe.config
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\ПРАКТИКА (АПТЕКА).exe
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\ПРАКТИКА (АПТЕКА).pdb
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\bin\Debug\ПРАКТИКА (АПТЕКА).exe
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\bin\Debug\ПРАКТИКА (АПТЕКА).pdb
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\ПРАКТИКА (АПТЕКА).csprojResolveAssemblyReference.cache
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\MainWindow.baml
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\REGISTRACIYA(APTEKA).baml
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\MainWindow.g.cs
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\REGISTRACIYA(APTEKA).g.cs
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\App.g.cs
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\ПРАКТИКА (АПТЕКА)_MarkupCompile.cache
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\ПРАКТИКА (АПТЕКА).g.resources
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\ПРАКТИКА__АПТЕКА_.Properties.Resources.resources
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\ПРАКТИКА (АПТЕКА).csproj.GenerateResource.Cache
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\Window1.g.cs
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\ПРАКТИКА (АПТЕКА)_MarkupCompile.lref
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\Window1.baml
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\Window2.baml
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\Window2.g.cs
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\Sotrudnik.baml
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\Sotrudnik.g.cs
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\Tovar.baml
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\Tovar.g.cs
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\Klient.baml
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\Postavshik.baml
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\Доставка.baml
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\Klient.g.cs
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\Postavshik.g.cs
+C:\Users\maksi\Desktop\ПРАКТИКА (АПТЕКА)\ПРАКТИКА (АПТЕКА)\obj\Debug\Доставка.g.cs

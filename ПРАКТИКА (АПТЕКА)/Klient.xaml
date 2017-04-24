@@ -1,0 +1,20 @@
+﻿<Window x:Class="ПРАКТИКА__АПТЕКА_.Klient"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Klient" Height="419.067" Width="735.821" Loaded="Window_Loaded">
+    <Grid>
+        <DataGrid x:Name="lolgrid" HorizontalAlignment="Left" Margin="123,10,0,0" VerticalAlignment="Top" Height="283" Width="605" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Imya}" Header="Имя" />
+                <DataGridTextColumn Binding="{Binding Otch}" Header="Имя" />
+                <DataGridTextColumn Binding="{Binding Fam}" Header="Имя" />
+                <DataGridTextColumn Binding="{Binding Adres}" Header="Имя" />
+
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Изменить" HorizontalAlignment="Left" Margin="123,298,0,0" VerticalAlignment="Top" Width="175"/>
+        <Button Content="Удалить" HorizontalAlignment="Left" Margin="123,323,0,0" VerticalAlignment="Top" Width="175"/>
+        <Button Content="Добавить" HorizontalAlignment="Left" Margin="123,348,0,0" VerticalAlignment="Top" Width="175"/>
+
+    </Grid>
+</Window>

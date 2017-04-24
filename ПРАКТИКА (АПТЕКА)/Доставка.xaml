@@ -1,0 +1,12 @@
+﻿<Window x:Class="ПРАКТИКА__АПТЕКА_.Доставка"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Доставка" Height="416.418" Width="814.925" Loaded="Window_Loaded">
+    <Grid>
+        <DataGrid x:Name="such" HorizontalAlignment="Left" Margin="195,1,0,0" VerticalAlignment="Top" Height="283" Width="605"/>
+        <Button Content="Изменить" HorizontalAlignment="Left" Margin="195,289,0,0" VerticalAlignment="Top" Width="175"/>
+        <Button Content="Удалить" HorizontalAlignment="Left" Margin="195,314,0,0" VerticalAlignment="Top" Width="175"/>
+        <Button Content="Добавить" HorizontalAlignment="Left" Margin="195,339,0,0" VerticalAlignment="Top" Width="175"/>
+
+    </Grid>
+</Window>
